@@ -1,2 +1,2 @@
 # AudioCloning
-This is a repository for Audio Cloning using GANs.
+This is a repository for Audio Cloning by GANs.
